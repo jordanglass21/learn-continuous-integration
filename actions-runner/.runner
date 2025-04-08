@@ -1,9 +1,9 @@
 ﻿{
-  "agentId": 2,
+  "agentId": 3,
   "agentName": "LAPTOP-83IBUESA",
   "poolId": 1,
   "poolName": "Default",
   "serverUrl": "https://pipelinesghubeus3.actions.githubusercontent.com/wlrbIKqskp8J4k5GZHROsRtjSA5I1BisPc3NUDHMAW86g54WgO/",
   "gitHubUrl": "https://github.com/jordanglass21/learn-continuous-integration",
-  "workFolder": "ci"
+  "workFolder": "_work"
 }

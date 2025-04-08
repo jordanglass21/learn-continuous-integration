@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "jordanglass21/learn-continuous-integration",
+  "pipelineDirectory": "learn-continuous-integration",
+  "workspaceDirectory": "learn-continuous-integration\\learn-continuous-integration",
+  "repositories": {
+    "jordanglass21/learn-continuous-integration": {
+      "repositoryPath": "learn-continuous-integration\\learn-continuous-integration",
+      "lastRunOn": "04/08/2025 15:13:40 -04:00"
+    }
+  },
+  "lastRunOn": "04/08/2025 15:13:40 -04:00"
+}
